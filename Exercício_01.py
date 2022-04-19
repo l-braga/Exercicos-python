@@ -1,1 +1,1 @@
-print("033[1;30;41Olá mundo\[m")
+print("\033[1;30;41Olá mundo\[m")
